@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/kurokurotho/faqs.github.io.git)
 - Live Site URL: [Live site](https://kurokurotho.github.io/faqs.github.io/)
 
 ## My process
